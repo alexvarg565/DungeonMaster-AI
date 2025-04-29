@@ -1,5 +1,10 @@
-# DungeonMaster-AI
 # 🧙‍♂️ Dungeon Master AI: Campaign Engine
+
+![Built with PyTorch](https://img.shields.io/badge/Built%20with-PyTorch-red)
+![Model-FineTuned-GPT2Medium](https://img.shields.io/badge/Model-GPT2--Medium-blue)
+![Platform-Google%20Colab-green](https://img.shields.io/badge/Platform-Google%20Colab-yellow)
+![License-MIT](https://img.shields.io/badge/License-MIT-green)
+![Status-Playable](https://img.shields.io/badge/Status-Playable-brightgreen)
 
 ## 📜 About the Project
 
