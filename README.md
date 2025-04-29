@@ -35,7 +35,7 @@ Built for immersive storytelling with D&D-inspired mechanics!
 ## 🚀 How To Run
 
 1. Clone or download this repository.
-2. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/).
+2. Open the `.ipynb` file in [Google Colab]
 3. Install required packages:
    ```bash
    pip install torch transformers
